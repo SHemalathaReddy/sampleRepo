@@ -1,1 +1,1 @@
-Hi , This file is sample file 
+This is sample file .modified in bugfix branch.
